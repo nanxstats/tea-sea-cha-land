@@ -1,6 +1,6 @@
 # "Tea by Sea, Cha by Land" Dataset 🍵
 
-This repository archives a temporal-spatial dataset characterizing
+This repository archives a spatial-temporal dataset characterizing
 how the word "tea" (茶) spread over the land and sea.
 
 ## Load the data
