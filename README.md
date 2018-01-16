@@ -13,7 +13,13 @@ df = read.csv("tea-sea-cha-land.csv")
 
 The R code for tidying the data is in [data-generator.R](data-generator.R).
 
-## Data source
+### Visualization
+
+We thank [@Lchiffon](https://github.com/Lchiffon) for contributing the visualization with computed possible tea trade paths for the dataset using his package [REmap](https://github.com/Lchiffon/REmap). The R code for creating the visualization is in [plot-remap.R](plot-remap.R).
+
+![](plot-remap.png)
+
+# Data source
 
 [World Atlas of Language Structures (WALS) database. Feature 138A: Tea.](http://wals.info/feature/138A#2/25.5/143.6)
 
