@@ -15,7 +15,7 @@ The R code for tidying the data is in [data-generator.R](data-generator.R).
 
 ### Visualization
 
-We thank [@Lchiffon](https://github.com/Lchiffon) for contributing the visualization with computed possible tea trade paths for the dataset using his package [REmap](https://github.com/Lchiffon/REmap). The R code for creating the visualization is in [plot-remap.R](plot-remap.R).
+We thank [@Lchiffon](https://github.com/Lchiffon) for contributing an [interactive map visualization](http://langdawei.com/reveal_slidify/cos/ldw/teaPlot.html) with computed possible tea trade paths for the dataset using his package [REmap](https://github.com/Lchiffon/REmap). The R code for creating the visualization is in [plot-remap.R](plot-remap.R).
 
 ![](plot-remap.png)
 
