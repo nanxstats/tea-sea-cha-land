@@ -2,7 +2,7 @@ library("dplyr")
 if (!require("REmap")) devtools::install_github("lchiffon/REmap")
 library("REmap")
 
-dat <- read.csv("https://raw.githubusercontent.com/road2stat/tea-sea-cha-land/master/tea-sea-cha-land.csv")
+dat <- read.csv("https://raw.githubusercontent.com/nanxstats/tea-sea-cha-land/master/tea-sea-cha-land.csv")
 
 # remove missing data
 rawDat <- dat %>% na.omit()
